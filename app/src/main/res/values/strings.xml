@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">ViewLecture</string>
+    <string name="sample_text">This text will be changed by style</string>
+    <string name="this_text_will_be_changed">this text will be changed</string>
+</resources>
